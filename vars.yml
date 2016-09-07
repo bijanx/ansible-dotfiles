@@ -1,0 +1,13 @@
+---
+dotfiles_repo: "git://github.com/bpourriahi/dotfiles.git"
+# dotfiles_repo: "https://github.com/bpourriahi/dotfiles.git"
+dotfiles_repo_local_destination: "~/code/dotfiles"
+
+dotfiles_home: "~"
+dotfiles_files:
+    - .zshrc
+    - .vimrc
+    - .aliases.sh
+
+oh_my_zsh_themes:
+  - bijan.zsh-theme
