@@ -4,7 +4,7 @@
     - name: Ensure dotfiles repository is cloned locally.
       git:
         repo: "{{ dotfiles_repo }}"
-        dest: "~/code/dotfiles"
+        dest: "{{ dotfiles_repo_local_destination }}"
         accept_hostkey: yes
         version: master
       become: no

@@ -1,6 +1,5 @@
 ---
 dotfiles_repo: "git://github.com/bpourriahi/dotfiles.git"
-# dotfiles_repo: "https://github.com/bpourriahi/dotfiles.git"
 dotfiles_repo_local_destination: "~/code/dotfiles"
 
 dotfiles_home: "~"
