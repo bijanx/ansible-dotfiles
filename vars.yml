@@ -8,6 +8,3 @@ dotfiles_files:
     - .zshrc
     - .vimrc
     - .aliases.sh
-
-oh_my_zsh_themes:
-  - bijan.zsh-theme
